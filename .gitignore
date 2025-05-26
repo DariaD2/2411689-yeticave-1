@@ -9,5 +9,3 @@ Thumbs.db
 vendor
 uploads/*
 !uploads/.gitkeep
-Dockerfile.txt
-docker-compose.yml
